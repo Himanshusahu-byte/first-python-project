@@ -117,7 +117,7 @@ def change_pin():
       
 def atm_menu():
     while True:
-        print(" WELCOME TO IPS BANK ")
+        print(" WELCOME TO IPS-IPS BANK ")
         print("1. Check Balance")
         print("2. Deposit Money")
         print("3. Withdraw Money")
